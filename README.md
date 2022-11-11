@@ -8,8 +8,7 @@ Las principales conclusiones son :
 
 * Nissan fue la empresa que más autos vendió durante el año, también es la empresa que produce los 2 modelos más vendidos( Versa y NP300)
 
-![image](https://user-images.githubusercontent.com/76232134/201376300-e28a4521-c4a0-4906-8bbc-fc72c88ede30.png)
-![image](https://user-images.githubusercontent.com/76232134/201375744-2b3a38b3-fa3c-444a-b2db-9668a1fe9873.png) 
+![image](https://user-images.githubusercontent.com/76232134/201376300-e28a4521-c4a0-4906-8bbc-fc72c88ede30.png)![image](https://user-images.githubusercontent.com/76232134/201375744-2b3a38b3-fa3c-444a-b2db-9668a1fe9873.png) 
 
 * Si analizamos por segmento Las SUV´s y los subcompactos son los segmentos más populares, En estos segmentos General motor es la empresa dominante. Sin embargo Nissan arrasa con su competencia en el segmento de los compactos. 
 ![image](https://user-images.githubusercontent.com/76232134/201376547-5aee6af8-dbe3-4e06-b83f-7f5be1f23b8e.png)
